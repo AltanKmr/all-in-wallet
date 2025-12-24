@@ -1,1 +1,1 @@
-
+Sample wallet file for demonstration purposes only.
